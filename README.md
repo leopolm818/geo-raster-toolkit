@@ -6,8 +6,6 @@ An open-source Python toolkit for geospatial raster analysis and remote sensing 
 
 ## Features
 
-Current functionality:
-
 - NDVI calculation
 - NDWI calculation
 - NumPy-based raster array processing
@@ -21,7 +19,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/leopoml818/geo-raster-toolkit.git
 cd geo-raster-toolkit
-''',</> Markdown
+'''
 
 Install the package:
 
